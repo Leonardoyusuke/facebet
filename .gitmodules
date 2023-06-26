@@ -1,0 +1,6 @@
+[submodule "back"]
+	path = back
+	url = https://github.com/Leonardoyusuke/faceBet-backend
+[submodule "front"]
+	path = front
+	url = https://github.com/Leonardoyusuke/autoral-front
